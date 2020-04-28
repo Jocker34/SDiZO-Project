@@ -1,0 +1,12 @@
+﻿  Testy.cpp
+c:\users\kacper\desktop\projekty\sdizo\projekt 1\projekt 1\testy.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kacper\desktop\projekty\sdizo\projekt 1\projekt 1\testy.cpp(28): warning C4101: 'pozycja': unreferenced local variable
+c:\users\kacper\desktop\projekty\sdizo\projekt 1\projekt 1\testy.cpp(240): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kacper\desktop\projekty\sdizo\projekt 1\projekt 1\testy.cpp(245): warning C4101: 'pozycja': unreferenced local variable
+c:\users\kacper\desktop\projekty\sdizo\projekt 1\projekt 1\testy.cpp(455): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kacper\desktop\projekty\sdizo\projekt 1\projekt 1\testy.cpp(554): warning C4018: '<': signed/unsigned mismatch
+  Test.cpp
+  Lista.cpp
+  Generating Code...
+  PROJEKT 1.vcxproj -> C:\Users\Kacper\Desktop\PROJEKTY\SDiZO\PROJEKT 1\Debug\PROJEKT 1.exe
+  PROJEKT 1.vcxproj -> C:\Users\Kacper\Desktop\PROJEKTY\SDiZO\PROJEKT 1\Debug\PROJEKT 1.pdb (Full PDB)
